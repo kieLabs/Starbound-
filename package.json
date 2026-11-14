@@ -1,0 +1,8 @@
+{
+  "name": "starbound-gamerkie-edition",
+  "version": "2.0.0",
+  "private": true,
+  "scripts": {
+    "test": "node tests/level-core.test.js && node tests/game-smoke.test.js"
+  }
+}
