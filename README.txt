@@ -1,0 +1,1 @@
+STARBOUND artwork, environmental props, creatures, particles and visual effects are currently drawn procedurally in Canvas by js/game.js. No external image or audio files are required. This folder is reserved for future licensed local assets.
